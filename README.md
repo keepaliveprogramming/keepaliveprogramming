@@ -1,2 +1,8 @@
-<h1 align="center">Hi :>, I'm Żenia!</h1>
-<h3 align="center">Welcome to my github :)</h3>
+# Hi! I'm Żenia 👋
+
+I'm a back-end developer from Poznań, Poland.
+
+<p>
+- 💗 I love PHP <br>
+- 🌴 I currently learning C++ and JavaScript
+</p>
